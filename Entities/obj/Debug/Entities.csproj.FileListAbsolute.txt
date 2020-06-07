@@ -1,0 +1,10 @@
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\bin\Debug\Entities.dll
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\bin\Debug\Entities.pdb
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\obj\Debug\Entities.dll
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\obj\Debug\Entities.pdb
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\bin\Debug\Entities.dll
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\bin\Debug\Entities.pdb
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\obj\Debug\Entities.dll
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Entities\obj\Debug\Entities.pdb

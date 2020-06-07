@@ -1,0 +1,13 @@
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\bin\Debug\ChoolProjectB.exe.config
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\bin\Debug\ChoolProjectB.exe
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\bin\Debug\ChoolProjectB.pdb
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\bin\Debug\Entities.dll
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\bin\Debug\Menu.dll
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\bin\Debug\Services.dll
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\bin\Debug\Entities.pdb
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\bin\Debug\Menu.pdb
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\bin\Debug\Services.pdb
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\obj\Debug\ChoolProjectB.csprojAssemblyReference.cache
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\obj\Debug\ChoolProjectB.csproj.CopyComplete
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\obj\Debug\ChoolProjectB.exe
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\ChoolProjectB\obj\Debug\ChoolProjectB.pdb

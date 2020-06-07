@@ -1,0 +1,16 @@
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\bin\Debug\Services.dll
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\bin\Debug\Services.pdb
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\bin\Debug\Entities.dll
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\bin\Debug\Entities.pdb
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\obj\Debug\Services.dll
+C:\Users\dionisis\source\repos\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\obj\Debug\Services.pdb
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\bin\Debug\Services.dll
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\bin\Debug\Services.pdb
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\bin\Debug\Entities.dll
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\bin\Debug\Entities.pdb
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\obj\Debug\Services.dll
+C:\Users\dionisis\Desktop\DB_ADO\ASSIGNMENT_B_SCHOOL_PILIKAS\Services\obj\Debug\Services.pdb
